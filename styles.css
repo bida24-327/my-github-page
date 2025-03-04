@@ -2,18 +2,18 @@ selector{
   property: value;
 }
 body{
-  font-family: Arial,sans-serif;
-  color:#333;
-  background-color:#f9f9f9;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f9f9f9;
   margin: 0;
   padding: 0;
   line-height: 1.6;
     }
 header{
   background-color: #4CAF50;
-  color:white;
+  color: white;
   padding: 20px;
-  text-alignn: center:
+  text-alignn: center;
 }
 header h1{
   margin: 0;
@@ -24,7 +24,7 @@ nav a {
   text decoration: none;
   margin 0 10px;
 }
-  nav a:hover{
+  nav a:hover {
     text-decoration: underline;
   }
 
@@ -38,11 +38,11 @@ main img{
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 20px;
+  margin: 20px 0;
 }
 
 footer{
-  background-color:#333;
+  background-color: #333;
   color: white;
   text-align: center;
   padding: 10px;
@@ -56,7 +56,7 @@ p{
 }
 
   a{
-    color:#4CAF50;
+    color: #4CAF50;
   text-decoration: none;
   }
 
